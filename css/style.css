@@ -104,6 +104,7 @@ img {
 }
 
 #title-box {
+  text-align: center;
   width: 252px;
   height: 165px;
   background: rgba(247,211,27,1);
